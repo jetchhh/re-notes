@@ -40,4 +40,3 @@ and malware analysis. Every week has a folder with notes and hands-on exercises.
 - Languages: C, C++, x86/x64 Assembly, Python
 
 ---
-*All progress is public. Follow along on X → [@jetchhh](https://x.com/jetchhh)*
