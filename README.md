@@ -11,7 +11,7 @@ and malware analysis. Every week has a folder with notes and hands-on exercises.
 
 ### Block 1 — x86/x64 Assembly (Weeks 3–7)
 - [x] Week 03 — Registers, endianness, NASM hello world, first crackme
-- [ ] Week 04 — Stack and function calls (PUSH/POP, CALL/RET)
+- [x] Week 04 — Stack and function calls (PUSH/POP, CALL/RET)
 - [ ] Week 05 — Conditionals and loops (CMP, JMP variants)
 - [ ] Week 06 — Calling conventions
 - [ ] Week 07 — Consolidation + crackme lvl 2
